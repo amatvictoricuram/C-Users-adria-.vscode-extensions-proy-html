@@ -1,0 +1,63 @@
+.td{
+    border: 1px solid black;
+}
+.th{
+    border: 1px solid black;
+}
+.menu-extras{
+     border: 1px solid black;
+     border-collapse: collapse ;
+    
+ }
+.menu-hamburguesa{
+    float: left;
+    margin: 5px;
+    width: 70%;
+    height: 25px;
+}
+#posicion{
+    position: fixed;
+    
+}
+.h1{
+    text-align: center;
+}
+.extras{
+    width: 25%;
+    height: 20px;
+    float: left;
+}
+.menu-centro{
+    text-align: center;
+}
+.perros{
+    color: rgb(10, 9, 2);
+    float: left;
+    margin: 5px;
+    width: 70%;
+    height: 25px;
+}
+
+.botones{
+    float: right;
+    width: 25%;
+    height: 500px;
+    margin: 5px;
+    
+}
+.portada{
+    background-color: rgb(255, 232, 28);
+}
+    
+.foto1{
+    width: 72%;
+    height: 500px;
+    margin-top: auto;
+    margin-left: auto; 
+}
+.button{
+    width: 150px;
+    height: 10%;
+    margin-right: 100px;
+    margin: 10px;
+}
